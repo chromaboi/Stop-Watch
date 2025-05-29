@@ -1,6 +1,6 @@
 let startButton = document.getElementById('start');
 let stopButton = document.getElementById('stop');
-let resetButton = document.getElementById(m'reset');
+let resetButton = document.getElementById('reset');
 
 let hour = 0;
 let minute = 0;

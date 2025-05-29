@@ -1,4 +1,5 @@
-body{
+body {
+    padding: 0;
     margin: 0;
     font-family: Verdana, sans-serif;
 }
@@ -58,4 +59,3 @@ h1 {
 #reset {
     background-color: #c91400;
 }
-
